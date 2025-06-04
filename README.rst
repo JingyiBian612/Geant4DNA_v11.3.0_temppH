@@ -1,5 +1,6 @@
 =====
 Geant4: A Simulation Toolkit
+Note: This is a research-driven modification of the Geant4DNA v11.3.0 release, including additional features for temperature- and pH- dependent radiation chemistry simulation.
 =====
 
 Geant4 is a toolkit for the simulation of the passage of particles through matter.
