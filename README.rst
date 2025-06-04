@@ -38,7 +38,8 @@ If you think you have found a bug in Geant4, please open a ticket on our `Bugzil
 Contributing to Geant4
 =====
 Please see the main `Contribution Guide <./CONTRIBUTING.rst>`_.
+
 =====
-[Details about the modified chem6 example]
+Details about the modified chem6 example:
 =====
-(examples/extended/medical/dna/chem6/examples/extended/medical/dna/chem6/TemppH_dependency_modification.md)
+examples/extended/medical/dna/chem6/examples/extended/medical/dna/chem6/TemppH_dependency_modification.md
