@@ -13,9 +13,9 @@ This project is a modified version of Geant4-DNA v11.3.0  adapted to simulate wa
 /geant4_11.3.0_source/examples/extended/medical/dna/chem6/chem6.cc
 
 -Creation of pH and temperature variables (Line 71-73)
-          G4double pH = 7;    
-          G4double T = 25;  //Celsius
-           T = T + 273.5;   //Kelvin          
+                  G4double pH = 7;    
+                  G4double T = 25;  //Celsius
+                  T = T + 273.5;   //Kelvin          
 
 -Instances of classes PhysicsList and DetectorConstruction are called with modified constructors that take as input T and pH. (Line 87-88)
 
