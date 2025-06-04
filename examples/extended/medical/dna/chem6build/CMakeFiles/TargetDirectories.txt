@@ -1,0 +1,8 @@
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/chem6.dir
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/chem6_proj.dir
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/edit_cache.dir
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/rebuild_cache.dir
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/list_install_components.dir
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/install.dir
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/install/local.dir
+/home/medphys/Documents/Jingyi_G4.11.3/Geant4_11.3/geant4_11.3.0_source/examples/extended/medical/dna/chem6build/CMakeFiles/install/strip.dir
