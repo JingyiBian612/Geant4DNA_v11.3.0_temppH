@@ -6,7 +6,7 @@ This project is a modified version of Geant4-DNA v11.3.0  adapted to simulate wa
 
 This repository is a modification of the original open-source project [Geant4DNA](http://geant4-dna.org)
 
-The base code and structure are developed by the Geant4DNA collaboration and licensed under [original license name].
+The base code and structure are developed by the Geant4DNA collaboration and licensed under [original license name](http://cern.ch/geant4/license ).
 
 ## Features
 
