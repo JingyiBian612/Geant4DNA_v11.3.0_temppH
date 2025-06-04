@@ -2,13 +2,20 @@
 
 This project is a modified version of Geant4-DNA v11.3.0  adapted to simulate water radiolysis under different temperature and pH conditions.
 
+## Acknowledgement
+
+This repository is a modification of the original open-source project [Geant4DNA](http://geant4-dna.org)
+
+The base code and structure are developed by the Geant4DNA collaboration and licensed under [original license name].
+
 ## Features
+
 - Updated G4EmDNAChemistry_option3 with the addition of temperature- and pH- dependency
+- 
 - Temperature and pH values can be set in chem6.cc
 
 
 ## Detailed description of the modification
-
 
 /geant4_11.3.0_source/examples/extended/medical/dna/chem6/chem6.cc
 
