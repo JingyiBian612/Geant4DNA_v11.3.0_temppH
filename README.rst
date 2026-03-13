@@ -3,7 +3,7 @@ This is a research-driven modification of the Geant4DNA v11.3.0 release, includi
 This repository provides the implementation based on our previous work, with new features (the addtion of temperature and pH interdependency:
 Jingyi Bian et al 2023 Phys. Med. Biol. 68 124002  [DOI 10.1088/1361-6560/acd90d]
 
-Technical details about the modified chem6 example: [TemppH_dependency_modification.md] (./examples/extended/medical/dna/chem6/TemppH_dependency_modification.md)
+Technical details about the modified chem6 example: [TemppH_dependency_modification.md] (`./examples/extended/medical/dna/chem6/TemppH_dependency_modification.md`)
 
 =====
 Geant4: A Simulation Toolkit
