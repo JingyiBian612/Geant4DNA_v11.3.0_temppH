@@ -4,9 +4,10 @@ This repository provides the implementation based on our previous work, with new
 Jingyi Bian et al 2023 Phys. Med. Biol. 68 124002  [DOI 10.1088/1361-6560/acd90d]
 
 Technical details about the modified chem6 example: [TemppH_dependency_modification.md] (./examples/extended/medical/dna/chem6/TemppH_dependency_modification.md)
+
 =====
 Geant4: A Simulation Toolkit
-
+=====
 Geant4 is a toolkit for the simulation of the passage of particles through matter.
 Its areas of application include high energy, nuclear and accelerator physics, as well
 as studies in medical and space science.
@@ -44,5 +45,4 @@ Contributing to Geant4
 =====
 Please see the main `Contribution Guide <./CONTRIBUTING.rst>`_.
 
-=====
 
