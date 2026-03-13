@@ -1,3 +1,6 @@
+=====
+Geant4DNA version 11.3.0 with temperature and pH dependence addition
+=====
 This is a research-driven modification of the Geant4DNA v11.3.0 release, including additional features for temperature- and pH- dependent radiation chemistry simulation. 
 
 This repository provides the implementation based on our previous work, with new features (the addtion of temperature and pH interdependency:
